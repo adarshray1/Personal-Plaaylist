@@ -61,19 +61,147 @@ new Vue({
           favorited: true
         },
         {
-          name: "Pending",
-          artist: "",
-          cover: "img/8.jpeg",
+          name: "Dil Ka Jo Haal Hai",
+          artist: "Abhijeet,Shreya Ghosal",
+          cover: "https://iili.io/2esR7yJ.jpg",
           source: "mp3/8.mp3",
           favorited: false
         },
         {
-          name: "Pending",
-          artist: "",
-          cover: "img/9.jpeg",
+          name: "Haule Haule",
+          artist: " Sukhwinder Singh",
+          cover: "https://iili.io/2es5SxR.webp",
           source: "mp3/9.mp3",
           favorited: false
-        }
+        },
+        {
+          name: "Mere Nam Tu",
+          artist: "Abhay Jodhpurkar",
+          cover: "https://iili.io/2esYnjf.jpg",
+          source: "mp3/10.mp3",
+          favorited: false
+        },
+        {
+          name: "Aaj Se Teri",
+          artist: "Amit Trivedi and Arijit Singh",
+          cover: "https://iili.io/2esMqXe.jpg",
+          source: "mp3/11.mp3",
+          favorited: false
+        },  
+        {
+          name: "Aashiqui Aa Gayi",
+          artist: "Arijit Singh",
+          cover: "https://iili.io/2esVnjt.jpg",
+          source: "mp3/12.mp3",
+          favorited: false
+        },
+        {
+          name: "Bol Na Halke Halke",
+          artist: "Mahalakshmi Iyer and Rahat Fateh Ali Khan",
+          cover: "https://iili.io/2esWqKb.jpg",
+          source: "mp3/13.mp3",
+          favorited: false
+        },
+
+        {
+          name: "Chal Tere Ishq Mein (Female)",
+          artist: "Neeti Mohan,Vishal Mishra,Shehnaz Akhtar,Sahil Akhtar & Mithoon",
+          cover: "https://iili.io/2eLdm1p.jpg",
+          source: "mp3/14.mp3",
+          favorited: false
+        },
+        {
+          name: "Chand Sifarish",
+          artist: "Kailash Kher and Shaan",
+          cover: "https://iili.io/2eL2LaS.jpg",
+          source: "mp3/15.mp3",
+          favorited: false
+        },
+        {
+          name: "Jugraafiya",
+          artist: "Shreya Ghoshal and Udit Narayan",
+          cover: "https://iili.io/2eL3DUN.jpg",
+          source: "mp3/16.mp3",
+          favorited: false
+        },
+        {
+          name: "Main Agar Kahoon",
+          artist: "Shreya Ghoshal and Sonu Nigam",
+          cover: "https://iili.io/2eLKEy7.jpg",
+          source: "mp3/17.mp3",
+          favorited: false
+        },
+        {
+          name: "Mareez-E-Ishq",
+          artist: "Arijit Singh",
+          cover: "https://iili.io/2eLC2cv.jpg",
+          source: "mp3/18.mp3",
+          favorited: false
+        },
+        {
+          name: "Meherbaan",
+          artist: "Ash King,Shekhar Ravjiani and Shilpa Rao",
+          cover: "https://iili.io/2eLnkIS.jpg",
+          source: "mp3/19.mp3",
+          favorited: false
+        },
+        {
+          name: "Baarish Ki Jaaye",
+          artist: "B Praak",
+          cover: "https://iili.io/2esy2ae.jpg",
+          source: "mp3/20.mp3",
+          favorited: false
+        },
+        {
+          name: "Nazar Na Lag Jaaye",
+          artist: "Ash King and Sachin–Jigar",
+          cover: "https://iili.io/2eLza7j.jpg",
+          source: "mp3/21.mp3",
+          favorited: false
+        },
+        {
+          name: "Pal Pal Dil Ke Paas",
+          artist: " Arijit Singh and Parampara Thakur",
+          cover: "https://iili.io/2eLTSgn.jpg",
+          source: "mp3/22.mp3",
+          favorited: false
+        },
+        {
+          name: "Tujh Mein Rab Dikhta Hai",
+          artist: "Roopkumar Rathod",
+          cover: "https://iili.io/2eLRjbj.jpg",
+          source: "mp3/23.mp3",
+          favorited: false
+        },
+        {
+          name: "Valam",
+          artist: "Arijit Singh,Priya Saraiya and Sachin Jigar",
+          cover: "https://iili.io/2eL7tHX.jpg",
+          source: "mp3/24.mp3",
+          favorited: false
+        },
+        {
+          name: " Tere Mast Mast Do Nain",
+          artist: "Rahat Fateh Ali Khan",
+          cover: "https://iili.io/2eL0frQ.jpg",
+          source: "mp3/25.mp3",
+          favorited: false
+        },
+        {
+          name: "Dagabaaz Re",
+          artist: "Rahat Fateh Ali Khan, Shadab Faridi, and Shreya Ghoshal",
+          cover: "https://iili.io/2eLGIj9.jpg",
+          source: "mp3/26.mp3",
+          favorited: false
+        },
+        {
+          name: "Tu Jo Hain",
+          artist: "Ankit Tiwari",
+          cover: "https://iili.io/2eLH1vn.jpg",
+          source: "mp3/27.mp3",
+          favorited: false
+        },
+
       ],
       currentTrack: null,
       currentTrackIndex: 0,
