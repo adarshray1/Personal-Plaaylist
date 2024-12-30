@@ -190,7 +190,7 @@ new Vue({
         {
           name: "Dagabaaz Re",
           artist: "Rahat Fateh Ali Khan, Shadab Faridi, and Shreya Ghoshal",
-          cover: "https://iili.io/2eLGIj9.jpg",
+          cover: "https://iili.io/2kUFHvI.jpg",
           source: "mp3/26.mp3",
           favorited: false
         },
